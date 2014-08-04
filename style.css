@@ -1,0 +1,49 @@
+
+.nav li{
+  display:block;
+  list-style:none;
+  height:40px;
+  width:200px;
+  float:left;
+   font-size:34px;
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight:100;
+  text-align:center;
+}
+.nav li a{
+  text-decoration:none;
+}
+.home{
+  background-color:#9BD9FF;
+}
+.home:hover{
+  background-color:#FF7820;
+  transition:0.8s;
+}
+.about{
+  background-color:#4FBCFF;
+}
+.about:hover{
+  background-color:#FFA66C;
+  transition:0.8s;
+}
+.clients{
+  background-color:#3F97CC  
+}
+ .clients:hover{
+  background-color:#FF7820;
+  transition:0.8s;
+}
+.contact{
+  background-color:#27637F;
+}
+.contact:hover{
+  background-color:#CC601A;
+  transition:0.8s;
+}
+  
+
+
+
+
+
